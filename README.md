@@ -1,4 +1,4 @@
-# learning-tailwind_css
+# Simple Tailwind CSS Site
 
 Created a simple website based on Tailwind CSS.
 
